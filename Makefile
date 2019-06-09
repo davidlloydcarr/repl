@@ -1,5 +1,3 @@
-# comment
-
 all: repl
 
 hello.exe: repl.o
